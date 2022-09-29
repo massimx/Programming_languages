@@ -1,5 +1,3 @@
-import re
-
 print("Enter the line")
 words = str(input())
 
